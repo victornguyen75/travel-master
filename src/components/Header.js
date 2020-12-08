@@ -55,11 +55,11 @@ const Bars = styled(FaBars)`
 
   // Mobile view
   @media screen and (max-width: 768px) {
-    display: block; 
+    display: block;
     position: absolute;
     top: 0;
     right: 0;
-    transition: translate(-100%, 75%);
+    transform: translate(-100%, 75%);
     font-size: 1.8rem;
     cursor: pointer;
   }
