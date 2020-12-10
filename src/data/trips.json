@@ -1,0 +1,38 @@
+[
+  {
+    "img": "../assets/images/travel-1.jpg",
+    "alt": "Pagoda Beside Water",
+    "name": "Pagoda Beside Water",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-2.jpg",
+    "alt": "Great Wall of China",
+    "name": "Great Wall of China",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-3.jpg",
+    "alt": "London Cityscape",
+    "name": "London Cityscape",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-4.jpg",
+    "alt": "Roman Colosseum",
+    "name": "Roman Colosseum",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-5.jpg",
+    "alt": "Mt. Fuji",
+    "name": "Mt. Fuji",
+    "button": "View Destination"
+  },
+  {
+    "img": "../assets/images/travel-6.jpg",
+    "alt": "White and Blue Castle",
+    "name": "White and Blue Castle",
+    "button": "View Destination"
+  }
+]
