@@ -12,7 +12,7 @@ const Hero = () => {
     <HeroContent>
       <HeroItems>
         <HeroH1>Unforgettable Sights</HeroH1>
-        <HeroP>Epic Experience</HeroP>
+        <HeroP>Epic Experiences</HeroP>
         <Button primary="true" big="true" round="true" to="/trips">Travel Now!</Button>
       </HeroItems>
     </HeroContent>
