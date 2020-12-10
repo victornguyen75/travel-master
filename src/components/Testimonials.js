@@ -54,7 +54,7 @@ const Testimonials = () => {
               `}
             />
             <h3>Sara Moreno</h3>
-            <p>"This trip was so easy to plan and set up! I will continue to use this platform for my future trips! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, perspiciatis."</p>
+            <p>"This trip was so easy to plan and set up! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis, perspiciatis."</p>
           </Testimonial>
         </ColumnOne>
         <ColumnTwo>
