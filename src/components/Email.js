@@ -8,7 +8,7 @@ const Email = () => {
     <EmailContainer>
       <EmailContent>
         <h1>Get Access to Exclusive Offers</h1>
-        <p>Sign up now!</p>
+        <p>Sign up now for a chance to win $100 off your next trip!</p>
         <form action="#">
           <FormWrap>
             <label htmlFor="email">
