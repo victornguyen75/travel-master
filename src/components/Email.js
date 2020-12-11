@@ -16,6 +16,7 @@ const Email = () => {
             </label>
             <Button
               as="button"
+              onClick={() => alert('You\'re now signed up!')}
               type="submit"
               primary="true"
               round="true"
